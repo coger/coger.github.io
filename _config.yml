@@ -11,7 +11,7 @@ contact: static
 color:
   primary: 3c5f87 #80B3FF
   secondary: b13533 #FD6E8A
-  secondary-dark: 070f19 #A2122F
+  secondary-dark: 070f19 #070f19 better than 000000
 
 # Footer settings
 footer:
