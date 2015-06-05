@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-05-01
-img: blocks-laptop.png
+date: 2015-06-05
+img: blocks.png
 alt: image-alt
 project-date: May 2014
 client: <a href="http://politech.io">Politech</a>
