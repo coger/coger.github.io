@@ -18,7 +18,7 @@ footer:
   copyright: Christopher Coger 2015
   location: Location
   social: Around the Web
-  contact: Contact
+  credits: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -38,8 +38,8 @@ address:
   - line: '1300 South Arlington Ridge Rd, Apt 308'
   - line: 'Arlington, VA, 22202'
 
-# Contact content
-contact:
+# Credits content
+credits:
   - line: christopher.coger@gmail.com
   - line: (585) 770-4276
 
