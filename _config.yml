@@ -39,9 +39,7 @@ address:
   - line: 'Arlington, VA, 22202'
 
 # Credits content
-credits:
-  - line: christopher.coger@gmail.com
-  - line: (585) 770-4276
+credits: christopher.coger@gmail.com / (585) 770-4276
 
 # Build settings
 markdown: kramdown
