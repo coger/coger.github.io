@@ -40,7 +40,7 @@ address:
 
 # Credits content
 credits:
-  - line: christopher.coger@gmail.com
+  - line: <a href="mailto:christopher.coger@gmail.com" target="_top">christopher.coger@gmail.com</a>
   - line: (585) 770-4276
 
 # Build settings
