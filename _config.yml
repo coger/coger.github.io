@@ -1,8 +1,8 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Chris Coger
+email: christopher.coger@gmail.com
+url: https://coger.github.io
+description: "Chris Coger's personal website."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,31 +15,33 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Christopher Coger 2015
   location: Location
   social: Around the Web
-  credits: Credits
+  contact: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/_Coger
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/chris.coger
+  - title: linkedin
+    url: https://www.linkedin.com/in/christophercoger
+  - title: google-plus
+    url: https://plus.google.com/+ChristopherCoger/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/coger
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: '1300 South Arlington Ridge Rd, Apt 308'
+  - line: 'Arlington, VA, 22202'
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Contact content
+contact:
+  - line: christopher.coger@gmail.com
+  - line: (585) 770-4276
 
 # Build settings
 markdown: kramdown
