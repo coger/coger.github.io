@@ -11,11 +11,11 @@ contact: static
 color:
   primary: 3c5f87 #80B3FF
   secondary: b13533 #FD6E8A
-  secondary-dark: 070f19 #A2122F
+  secondary-dark: 000000 #A2122F
 
 # Footer settings
 footer:
-  copyright: Christopher Coger 2015
+  copyright: Christopher Coger
   location: Location
   social: Around the Web
   credits: Contact
