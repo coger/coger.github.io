@@ -32,11 +32,13 @@ social:
     url: https://plus.google.com/+ChristopherCoger/
   - title: github
     url: http://github.com/coger
+  - title: medium
+    url: https://medium.com/@christopher.coger  
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: '5720 Fishers Lane, #329'
-  - line: 'Rockville, MD 20852'
+  - line: '506 Linthicum Street'
+  - line: 'Rockville, MD 20851'
 
 # Credits content
 credits:
